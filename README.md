@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif" width="220"/>
 
-# 🌸 hey, i'm gaby 🌸
+# 🌸 hey, i'm Gabriel 🌸
 
 ### 💻 frontend & fullstack developer  
 ### 🎨 creating cute & modern web experiences
@@ -88,9 +88,8 @@
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-F7B7D2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Discord](https://img.shields.io/badge/Discord-F9DDEB?style=for-the-badge&logo=discord&logoColor=black)](https://discord.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7B7D2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-F7B7D2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quale._gaby?igsh=bWpub2plOW5mNTZ0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7B7D2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-sifr/)
 
 </div>
 
